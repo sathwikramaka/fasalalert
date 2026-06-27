@@ -67,7 +67,7 @@ fasalalert/
 | Member | Primary Role |
 |--------|-------------|
 | Swathi | stress.py, crop_thresholds.json, crop_calendar.json |
-| Sathvik | app.py — Streamlit GUI |
+| Sathwik | app.py — Streamlit GUI |
 | K. Yaswanthi | weather_api.py — OpenWeatherMap API |
 | Himanshu | spatial.py, helpers.py, repo setup, README |
 
